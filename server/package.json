@@ -17,7 +17,7 @@
     "images": "^2.2.1",
     "less-middleware": "~2.2.0",
     "mockjs": "^1.0.1-beta3",
-    "morgan": "~1.8.1",
+    "morgan": "~1.9.1",
     "request": "^2.81.0",
     "serve-favicon": "~2.4.2"
   }
